@@ -1,0 +1,9 @@
+# Ignore files
+
+.DS_Store
+.ds_store
+*.pt
+runs
+# Ignore videos
+*.mp4
+*.MP4
