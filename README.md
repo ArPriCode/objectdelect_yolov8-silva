@@ -13,7 +13,11 @@ A comprehensive YOLOv8 implementation for object detection, image classification
 
 ## 📋 Tech Stack
 
-- **Python 3.7+**: Core programming language
+- **Python 3.7+**: Core programmi
+
+https://github.com/user-attachments/assets/048359ac-c98b-433e-bb22-476afe23a802
+
+ng language
 - **Ultralytics YOLOv8**: State-of-the-art object detection framework
 - **PyTorch**: Deep learning backend
 - **OpenCV**: Computer vision and video processing
@@ -21,6 +25,8 @@ A comprehensive YOLOv8 implementation for object detection, image classification
 - **SciPy**: Scientific computing utilities
 - **Pillow**: Image processing and I/O
 - **Matplotlib**: Visualization and plotting
+
+- 
 
 ## 🛠️ Installation
 
@@ -246,6 +252,10 @@ Speed: 1.6ms preprocess, 50.2ms inference, 1.5ms postprocess per image at shape 
 5. Submit a pull request
 
 ## 📄 License
+
+https://github.com/user-attachments/assets/701716ca-0ec9-4e44-be97-b12ec14c8b35
+
+
 
 This project is open source and available under the [MIT License](LICENSE).
 
